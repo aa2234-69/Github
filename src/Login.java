@@ -7,7 +7,8 @@ public class Login {
 		System.out.println("hiii");
 		System.out.println("byee");
 		System.out.println("hello");
-		
+				System.out.println("logging out");
+
 		System.out.println("logging in");
 
 	}
